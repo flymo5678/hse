@@ -1,0 +1,30 @@
+<ul>
+  <li><a href="../content/index.htm">CD-Rom home</a></li>
+  </ul>
+<ul>
+  <li><a href="../content/part1.htm">Part 1</a></li>
+  <li><a href="../content/part2.htm">Part 2</a></li>
+  <li><a href="../content/part4.htm">Part 4</a>
+      <ul>
+        <li><a href="../content/part4-2.htm">Step 2</a></li>
+        <li><a href="../content/part4-3.htm">Step 3</a></li>
+        <li><a href="../content/part4-4.htm">Step 4</a></li>
+        <li><a href="../content/part4-5.htm">Step 5</a></li>
+      </ul>
+  </li>
+  <li><a href="../content/part6.htm">Part 6</a></li>
+</ul>
+<ul>
+  <li><a href="../content/contact.htm">Contact us</a> </li>
+  <li><a href="../content/help.htm">Help using this <br>
+  CD-Rom</a></li>
+</ul>
+<ul class="listhighlight">
+  <li> 
+    <p><a href="http://www.hsebooks.com/">Order 
+      a publication <strong>01787 881165</strong></a></p>
+  </li>
+  <li> 
+    <p><a href="http://www.hse.gov.uk/contact/index.htm">Call HSE Infoline <strong>0845 345 0055</strong></a></p>
+  </li>
+</ul>

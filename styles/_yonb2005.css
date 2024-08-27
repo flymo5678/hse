@@ -1,0 +1,25 @@
+/*h1 { border: 1px %DARK% solid; } 
+.headlinehighlight ,.headlinehighlight ,.highlightBox { border: 1px %DARK% solid; }
+.headlinehighlight h1 {border:none;}
+.icapsl, .icapml, .icapll {border: 1px %DARK% solid; }
+.icapsr, .icapmr, .icaplr {border: 1px %DARK% solid; }
+.n .selected { border: 1px %DARK% solid; }
+.n ul li .selected {border: 1px %DARK% solid; }
+.n ul.az li, .n ul.listhighlight li {border: 1px %DARK% solid; }
+ul.listql {border: 1px %DARK% solid; }
+.highlight {border: 1px %DARK% solid;}
+
+#subnav100 {background-color: %WHITE%; border-bottom: 1px %DARK% solid;}
+#title770 {background: url(%IMAGEPATH%hse-bicubic.gif) transparent 17px 0.5em no-repeat; background-color:%WHITE%;}
+
+
+.l {color:%DARK%; background-color:%WHITE%;}
+.l, .l a, .l a:hover, .l a:active, .l a:focus, .l h1, .l h2, .l p, .l li.first, .l acronym, .l .exec, .l .comm {color: %DARK%;}
+.l ul {background:none; list-style:none}
+.l ul li, fieldset {border-color: %DARK%;}
+.l ul.arrow li, .l ul.listarrow li {background-image: url(%IMAGEPATH%whitearrow.gif);} #closeIE5hack {}
+.l ul.arrow a, .l ul.listarrow a, .l ul.arrow a:hover, .l ul.listarrow a:hover {color:%DARK%; font-weight:normal;}
+input, select, textarea, option {color:%WHITE%}*/
+
+p, li, td, th, h3, dl {font-size: medium !important;}
+h2, h2 a {font-size: large !important;}

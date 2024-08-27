@@ -1,0 +1,46 @@
+
+#colmiddle #map {width: 211px; height: 400px; border:0; background:  url(../../images/2005furniture/uk.gif); margin: 0; padding: 0; position: relative; }
+
+#colmiddle #map li {margin: 0; padding: 0;  background-image:none; position: absolute; }
+
+#colmiddle #map a {display: block; text-decoration: none;}
+#scot {left: 0; top:0px; width:188px; height:210px;}
+#yne {left: 100px; top:158px; width:125px; height:109px;}
+
+#sse {left:121px; top:275px; width:96px; height:109px;}
+#mid {left: 88px; top:261px; width:87px; height:64px;}
+#nw {left: 21px; top:188px; width:102px; height:90px;}
+#wsw {left: 5px; top:257px; width:127px; height:143px;}
+#lon {left:155px; top:330px; width:35px; height:17px;}
+
+
+#scot a {height:210px;}
+#yne a {height:109px;}
+
+#sse a {height:109px;}
+#mid a {height:64px;}
+#nw a {height:90px;}
+#wsw a {height:143px;}
+#lon a {height:17px;}
+
+
+
+#scot a:hover {background: transparent url(../../images/2005furniture/uk.gif) -211px 0 no-repeat;}
+#yne a:hover {background: transparent url(../../images/2005furniture/uk.gif) -734px -158px no-repeat;}
+
+#sse a:hover {background: transparent url(../../images/2005furniture/uk.gif) -754px -275px no-repeat;}
+#mid a:hover {background: transparent url(../../images/2005furniture/uk.gif) -299px -261px no-repeat;}
+#nw a:hover {background: transparent url(../../images/2005furniture/uk.gif) -899px -188px no-repeat;}
+#wsw a:hover {background: transparent url(../../images/2005furniture/uk.gif) -427px -257px no-repeat; }
+#lon a:hover {background: transparent url(../../images/2005furniture/uk.gif) -366px -330px no-repeat;}
+
+/* #colmiddle #map li a span {position:absolute; left:-1000px;}*/
+#scot a span {position: relative; left:253px; top:55px;}
+#yne a span {position: relative; left:155px; top:-50px;}
+
+#sse a span {position: relative; left:140px; top:17px;}
+#mid a span {position: relative; left:169px; top:-45px;}
+#nw a span {position: relative; left:236px; top:-22px;}
+#wsw a span {position: relative; left:255px; top:-7px;}
+#lon a span {position: relative; left:107px; top:15px;} 
+#scot a:hover span, #yne a:hover span, #nw a:hover span, #wsw a:hover span, #sse a:hover span, #mid a:hover span, #lon a:hover span {text-decoration: underline;}

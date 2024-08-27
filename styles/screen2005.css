@@ -1,0 +1,42 @@
+@media screen
+{
+body, textarea {font-family : Arial, helvetica, sans-serif; /* ie 5*/font-size:x-small;/* hack */voice-family: "\"}\""; voice-family:inherit;/*others*/font-size:small;  }
+
+.t.c1 {width:98% !important; padding-left:16px; }
+.t.c2 { width:600px !important; overflow:hidden; }
+.t.c3 { width:390px !important; }
+
+#printbanner { display:none }
+
+ul#accesskeys li a {position:absolute; left:-1000px; top:-1000px; }
+ul#accesskeys li, ul#accesskeys li a:active, ul#accesskeys li a:focus {position:absolute; left:0; top:0; font-size:larger; padding:10px; display:block; white-space:nowrap;}
+#bodycontainer {width: 100%; display:block; voice-family: "\"}\""; voice-family:inherit; float:left; width : 780px; } #closeIE5Hack {}
+#wrapper {width:580px; display:block; float:left; margin:0; padding:0;}
+#colmiddle {float:right; margin:0;}
+
+#colleft { float:left;width:145px; margin:0 14px 0 0; padding: 0 5px 0 16px; overflow:hidden;}
+#colright {float:right;width:183px;  voice-family: "\"}\""; voice-family:inherit; width:180px; } #closeIE5Hack {}
+
+#footer { width:100%; margin: 0.5em 0 4em 0; padding:0.3em 0 0 0; border-top-width: 1px; border-top-style: solid; float:left; }
+#lifelines100  { border-bottom-width: 1px; border-bottom-style: solid; }
+#lifelines770 { padding: 0.4em 0; width:770px; height:1.5em; }
+#lifelines770 ul { float:left; width: /*37em*/ 580px; display:inline; }
+#searchbox {display:inline; float:right;width:199px; voice-family: "\"}\""; voice-family:inherit; width:179px;}#closeIE5Hack {}
+#subnav100 { padding: 0.2em 0; height:1.2em;}
+#subnav100 ul { width: 57em;}
+#subnav100 p { font-weight:bold; margin-left:18px;}
+#title770 { /*height: 4em; 14.05.07 *** needs testing */ overflow:hidden; width: 770px; }
+#title770 h2, #title770 p.subtitle {float: right; margin-top:1em; width:199px; voice-family: "\"}\""; voice-family:inherit; width:180px; }#closeIE5Hack {}
+#title770 h1 a, #title770 p.title a {margin:0; display:block; float:left; padding:1em 1em 1em/*0.2em 14.05.07 */ 156px; font-size:small;voice-family: "\"}\""; voice-family:inherit; padding:1em 1em 1em/*0.2em 14.05.07 */ 180px; }
+#closeIE5Hack {}
+
+h2 a, h2 label {font-size:small;}  
+
+
+dl.dlpretty {margin:0.5em 0 1em 0; border-bottom-width:1px; border-bottom-style:solid;}
+dl.dlpretty dt, dl.dlpretty dd {border-top-width: 1px; border-top-style: solid; float:left; padding: 0.5em 0; margin:0; line-height:1.2em; }
+dl.dlpretty dt { width: 30%; font-weight:bold; clear: both; /* bug in IE and printing DLs, moved from layout to screen */}
+dl.dlpretty dd { width: 70%; }
+dl.dlpretty dd.first {font-weight:bold;}
+
+}

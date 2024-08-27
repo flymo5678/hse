@@ -1,0 +1,139 @@
+/* This is the layout (&) sheet - it will contain no colour information.
+Colour information will be in the sheets: tgreen2004, tdefault2004,torange2004, tpurple2004 and thsc2004
+this version 1.7.1*/
+
+/*.t.c1 {width:100% !important; padding-left:16px; }
+.t.c2 { width:600px !important; overflow:hidden; }
+.t.c3 { width:390px !important; }
+.t.c1 dl { width:100% !important; }
+.t.c2 dl { width:600px !important;}
+.t.c3 dl { width:390px !important;}
+*/
+#banner { position:absolute; left:0; top:0; width:100%; z-index:1; height:200px;}
+#colleft { position:absolute; left:0px; top:250px; width:145px; overflow:hidden; padding:0; margin:0}
+#colleft select, #colleft input { width:109px; height:22px;}
+#colleft .formactionelementnarrow, #colleft .formminorelement{ width:26px; height:24px; }
+#colmiddle { position:absolute; left:220px; top:250px; width:400px; }
+#colright {position:absolute; top:250px; left:640px; width:180px; } 
+#subnav100 { padding: 0.2em 0; height:20px;}
+#subnav100 ul { width: 57em;}
+#subnav100 p { font-weight:bold; margin-left:18px;}
+#title770 { height: 10px; width: 100%; margin:0; padding:0;}
+#title770 h2 {float: right;}
+
+/* hiding stuff */
+#gutter, #printbanner, #accesskeys, #searchbox, #footer, #lifelines100, #title770 h1 { position:absolute; left:0; top:0; width:0; height:0; z-index:0; padding-left:60px;}
+
+
+
+
+
+
+/* CSS Document */
+/************ MAIN PAGE ELEMENTS ************/
+
+*,body { margin:0; padding:0; font-family : Arial, helvetica, sans-serif; font-size:x-small;  }
+html > body , html > body div , html > body p , html > body th , html > body td , html > body li , html > body dd , html > body h4 , html>body a { font-size:small;  }
+a, a:hover { text-decoration: none; }
+acronym { border-bottom-style: dotted; border-bottom-width: 1px; cursor: help;}
+b , strong { font-weight : bold; }
+dl {margin:2px 0 1em 0; border-bottom-style:solid; border-bottom-width:1px;}
+dt {border-top-width: 1px; border-top-style: solid; font-weight:bold;}
+dd {border-top-width: 1px; border-top-style: solid; padding:1em 0;}
+input, select { width:145px; height: 1.5em; border-style: solid; border-width: 1px; }
+img, img a, img a:hover, img a:visited {border:none;}
+fieldset { padding: 2em; border-style:solid; border-width:1px;}
+h1  { font-weight:bold; font-size:small; } #closeIE5Hack {}
+h2 , h3, legend {font-weight:bold; margin-top:1em; font-size:x-small}
+h4, h5, h6 {display:none;}
+hr { clear : both; height : 1px;  border-top-style : solid; border-top-width: 1px; border-bottom : none; margin: 10px 0; }
+ol { text-align:justify; list-style: decimal outside; margin:0.5em 2em }
+table {margin:1em 0; border-width:1px; border-style:solid; }
+td {padding:0.2em 0.8em; text-align: left;}
+td p { padding: 0; margin: 0 }
+th { vertical-align: top; text-align: center; }
+textarea { width:290px; height:5em;  border-style: solid; border-width: 1px; }
+ul { list-style: none; }
+ul li, ol li { background-position:0 4px; background-color: transparent; background-repeat: no-repeat; line-height: 1.2em; margin :0; padding : 0.3em 0 0.1em 1.3em;}
+.ddm { padding: 0.25em 0 0.75em 0;  }
+.ddm h2 { padding: 0; margin:0 }
+.formactionelement, .formactionelementnarrow{ cursor : pointer; }
+.formactionelementnarrow, .formminorelement{ width:26px; }
+.formbig { width: 250px;}
+.formsmall { width: 70px;}
+.formdefault {border-style: inset; height: 18px; border-width: 2px 1px 1px 2px;}
+.formminorelement{ border:none; }
+.headlinehighlight { padding:  0 0 1em 0 ; margin : 0 0 0.5em 0; }
+.headlinehighlight img { margin: 0; padding:0; }
+.headlinehighlight h1, .headlinehighlight h3, .headlinehighlight h2 { padding : 0.5em 0 0 1em;} 
+.headlinehighlight p { padding : 0 1.4em;} 
+.hide { display : none; }
+.highlightBox { padding : 0.5em 1.5em; margin :1em 0; }
+.highlightBox h1{ padding: 2em 0 0 0; }
+.hse2ColumnLeft  , .hse2ColumnRight {float: left; width:50%; margin:0;padding:0}
+.hse2ColumnLeft p, .hse2ColumnLeft ul, .hse2ColumnRight ul {padding-right:1em;}
+.hse2ColumnLeft p, .hse2ColumnLeft h1, .hse2ColumnLeft h2, .hse2ColumnLeft h3, .hse2ColumnRight p, .hse2ColumnRight h1, .hse2ColumnRight h2, .hse2ColumnRight h3 {padding-left:1em;}
+.l a:hover {text-decoration:underline;}
+.l div { width: 100% }
+.l h1 { padding:0 }
+.l ul { margin: 0 0 0 10px; }
+.l ul li {background:none; padding: 0 0.6em; display: inline; border-left-width:1px; border-left-style:solid;}
+.l ul li.first { border:none }
+.l ul.arrow { }
+.l ul.arrow li {border:none; background-repeat: no-repeat;  margin :0; line-height: 1.2em; padding : 0.3em 0 0.1em 1.3em; background-position:0 4px; } #closeIE5hack {}
+.l ul.arrow li.first {background:none !important; border:none; padding : 0.3em 0 0.1em 10px;}
+.n a:hover {text-decoration: underline;}
+.n ul { margin-top:0.5em; padding-bottom:0.5em; border-bottom-width:1px; border-bottom-style:solid;}
+.n ul li ul { margin: 0.25em 0; border:none;}
+.n ul li ul li {line-height: 1.2em; margin :0 0 0 -1.3em; padding : 0.3em 0 0.1em 1.3em; }
+.n .selectCollapsed, .n .selectExpanded {padding : 0.3em 0 0.1em 0;}
+.n .selectCollapsed a, .n .selectExpanded a {width:16px;}
+.n .selectExpanded a:hover {text-decoration:underline;}
+.n .selectCollapsed a:hover, .n .selectExpanded a:hover {text-decoration:none;}
+.n .selectCollapsed ul{display:none;} 
+.n .selectExpanded ul {padding : 0.3em 0 0.1em 1.3em; border-bottom-width:1px; border-bottom-style:solid;}
+.n .selected { border:none;}
+.n ul.az li, .n ul.listhighlight li {background-image:none;}
+.news img {float:left; clear:both; margin: 0 1em 0 0; border:none;}
+.query { font-weight: bold; }
+.t { float : left; }
+.t a, .t a:hover { text-decoration: underline; }
+.t h2 a, .t h3 a {text-decoration:none;}
+.t p {margin : 0.2em 0.5em 1em 0; text-align : justify; }
+.t ul {margin : 0.5em 0 1em 1em; }
+.t ul.listimgflow {margin:18px 0;}
+.utilclearfloats {clear: both;}
+
+
+h1.headlinehighlight { padding:  1em; margin : 0 0 0.5em 0;}
+dt.first, dd.first {font-weight:bold;}
+p.headlinekeymessage { margin : 0 0 2em; font-weight : bold; font-size:large;} #closeIE5Hack {}
+p.headlinekeymessage strong{width: 100%; text-align:justify; font-size:200%;} #closeIE5Hack {}
+p.ticker a {font-weight:normal}
+table.tablealphacolumn, table.tablenumcolumn, table.tablealphagrid, table.tablenumgrid { border-right:none; }
+table.tablealpharow th, table.tablealphacolumn th, table.tablealphagrid th {text-align:left;}
+table.tablenumrow td, table.tablealpharow td , table.tablealphagrid td, table.tablenumgrid td {border-top-width:1px; border-top-style: solid;}
+table.tablealphacolumn td, table.tablenumcolumn td, table.tablealphagrid td, table.tablenumgrid td {border-right-style:solid; border-right-width:1px;}
+table.tablealpharow td, table.tablealphacolumn td, table.tablealphagrid td {text-align: left; vertical-align:top;}
+td.right, th.right {text-align: right}
+td.left, th.left {text-align: left}
+ul.az {margin:0; }
+ul.az li {font-family:monospace; background-image:none; margin:0; padding:0; display:inline; line-height:1.5em; }
+ul.az a, ul.az a:hover {font-family:monospace; padding:0 0.5em; border-style:solid; border-width:1px; text-decoration:none;}
+ul.advertlist {margin: 1em 0; background-image:none; border:none; }
+ul.advertlist li {background-image:none !important; margin:0.5em 0; padding:0;}
+ul.advertlist img{ border-width: 1px; border-style: solid;}
+ul.listarrow li a, ul.arrow li a {font-weight:bold; text-decoration:none;}
+ul.listarrowlong li a {text-decoration:none;}
+ul.listimgflow {margin:0; padding:0}
+ul.listimgflow .first { margin-left:0; clear:left; }
+ul.listimgflow li a { font-weight: bold; display: block; height: 110px;}
+ul.listimgflow li { background:none; float:left; margin: 0 0 18px 18px; text-align:center; height:110px; width:118px; padding:0;}
+ul.listimgflow li img {width: 118px;height:68px;border:none;margin-bottom:5px;}
+ul.listhorizontal li.first {border:none; padding-right:0.6em;}
+ul.listhorizontal {margin:1em 0 2em 0;}
+ul.listhorizontal li {background:none; margin:0; padding:0  0.6em ; display: inline; border-left-width: 1px; border-left-style: solid;}
+ul.listhighlight { padding:0; margin-top: 1em; border:none; }
+ul.listhighlight li {background:none; margin-top:0.1em; padding:0;}
+ul.listhighlight p a {font-weight:normal; }
+ul.listhighlight a { font-weight :bold; display: block; width:86%; padding:7%; } #closeIE5Hack {}

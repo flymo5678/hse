@@ -1,0 +1,125 @@
+  <div class="industry">
+      <h2><label for="si">Your industry</label></h2>
+      <ul class="ddmswitch listarrowlong" id="si">
+        <li><a href="http://www.hse.gov.uk/agriculture/index.htm" title="Agriculture has one of the worst fatal accident records of any industry">Agriculture</a></li>
+        <li><a href="http://www.hse.gov.uk/airtransport/index.htm" title="Air transport has expanded considerably, with a five-fold increase in air travel over the last 30 years and a doubling in air freight in the last 10 years">Air transport</a></li>
+        <li><a href="http://www.hse.gov.uk/services/armedforces/index.htm" title="health and safety advice for those working in the armed forces for the MoD">Armed forces</a></li>
+        <li><a href="http://www.hse.gov.uk/biocides/index.htm" title="Biocidal products are used in a variety of industries to control unwanted organisms, such as animals, insects, bacteria, viruses and fungi">Biocides</a></li>
+        <li><a href="http://www.hse.gov.uk/catering/index.htm" title="The hospitality industry includes hotels, pubs and restaurants, contract caterers, fast food takeaways cafes and bistros">Catering and hospitality</a></li>
+		<li><a href="http://www.hse.gov.uk/cement/index.htm" title="Cement manufacture">Cement</a></li>
+		<li><a href="http://www.hse.gov.uk/ceramics/index.htm" title="Ceramics industry">Ceramics</a></li>
+        <li><a href="http://www.hse.gov.uk/chemicals/index.htm" title="Chemical manufacturing and storage">Chemicals</a></li>
+        <li><a href="http://www.hse.gov.uk/cleaning/index.htm" title="Occupational health and safety advice for people working in the cleaning industry, and information about the Cleaning Industry Liaison Forum">Cleaning</a></li>
+		<li><a href="http://www.hse.gov.uk/concrete/index.htm" title="Concrete">Concrete</a></li>
+        <li><a href="http://www.hse.gov.uk/construction/index.htm" title="Construction is Britain's biggest industry and one of its most dangerous">Construction</a></li>
+        <li><a href="http://www.hse.gov.uk/diving/index.htm" title="Health and safety information relating to the Diving Industry">Diving</a></li>
+        <li><a href="http://www.hse.gov.uk/docks/index.htm" title="Health and safety information relating to Docks and Ports">Docks</a></li>
+        <li><a href="http://www.hse.gov.uk/services/education/index.htm" title="Education sector health and safety information">Education</a></li>
+        <li><a href="http://www.hse.gov.uk/engineering/index.htm" title="Information relevant to those who work in the engineering sector.">Engineering</a></li>
+        <li><a href="http://www.hse.gov.uk/entertainment/index.htm" title="The entertainment and leisure industry covers a wide and diverse field of activities.">Entertainment and leisure</a></li>
+        <li><a href="http://www.hse.gov.uk/explosives/index.htm" title="Information relating to the manufacture, storage, supply and carriage of explosives and fireworks.">Explosives</a></li>
+        <li><a href="http://www.hse.gov.uk/services/fire/index.htm" title="Health and safety advice for the fire brigades and other rescue services">Fire and rescue services</a></li>
+        <li><a href="http://www.hse.gov.uk/food/index.htm" title="The food and drink manufacturing industry comprises over 30 different industries ranging from slaughterhouses, sugar refineries and grain mills to malt manufacture and whisky distilling">Food manufacture</a></li>
+        <li><a href="http://www.hse.gov.uk/leather/index.htm" title="Information relevant to the leather and footwear industry">Footwear</a></li>
+        <li><a href="http://www.hse.gov.uk/gas/index.htm" title="Provides links to the home pages for both domestic gas and gas supply health and safety information">Gas</a></li>
+		<li><a href="http://www.hse.gov.uk/glass/index.htm" title="Glass and glazing">Glass and glazing</a></li>
+        <li><a href="http://www.hse.gov.uk/hairdressing/index.htm" title="Up to 70% of hairdressers suffer from skin damage">Hairdressing</a></li>
+        <li><a href="http://www.hse.gov.uk/haulage/index.htm" title="Information relevant to those who work in the haulage industry">Haulage</a></li>
+        <li><a href="http://www.hse.gov.uk/healthservices/index.htm" title="The health services is one of Britain's biggest employers with approximately 1.2 million employed by the NHS and approximately 0.7 million in the private sector">Health services</a></li>
+		<li><a href="http://www.hse.gov.uk/heavyclay/index.htm" title="Heavy clay and bricks">Heavy clay and bricks</a></li>
+        <li><a href="http://www.hse.gov.uk/laundries/index.htm" title="Health and safety information for people working in the laundries and dry cleaning industries.">Laundries and dry-cleaners</a></li>
+        <li><a href="http://www.hse.gov.uk/leather/index.htm" title="Information relevant to the leather and footwear industry">Leather</a></li>
+        <li><a href="http://www.hse.gov.uk/services/localgovernment/index.htm" title="Providing advice to local authorities as an employer and those working within a local authority">Local government</a></li>
+        <li><a href="http://www.hse.gov.uk/manufacturing/index.htm" title="Health and safety information relating to people working in the manufacturing industry">Manufacturing</a></li>
+        <li><a href="http://www.hse.gov.uk/mining/index.htm" title="Health and safety information relating to people working in the mining industry">Mining</a></li>
+		<li><a href="http://www.hse.gov.uk/moltenmetals/index.htm" title="Molten metals">Molten metals</a></li>
+        <li><a href="http://www.hse.gov.uk/mvr/index.htm" title="Provides a range of information about health and safety issues in the MVR industry">Motor vehicle repair</a></li>
+        <li><a href="http://www.hse.gov.uk/nuclear/index.htm" title="Provides links to information and reports on the Nuclear industry">Nuclear</a></li>
+        <li><a href="http://www.hse.gov.uk/offshore/index.htm" title="Health and safety information relevant to those who work in the offshore oil and gas industry.">Offshore oil and gas</a></li>
+        <li><a href="http://www.hse.gov.uk/paper/index.htm" title="Papermaking, conversion and paper recycling have traditionally suffered from a high accident rate">Paper</a></li>
+        <li><a href="http://www.hse.gov.uk/pesticides/index.htm" title="Pesticides are biologically active chemicals designed to control pests.">Pesticides</a></li>
+		<li><a href="http://www.hse.gov.uk/plastics/index.htm" title="Plastics">Plastics</a></li>
+        <li><a href="http://www.hse.gov.uk/services/police/index.htm" title="The Police Service is a major employer of staff involved in potentially hazardous work">Police</a></li>
+        <li><a href="http://www.hse.gov.uk/printing/index.htm" title="Every year people are seriously injured, killed or suffer ill health working in the printing industry.">Printing</a></li>
+        <li><a href="http://www.hse.gov.uk/services/index.htm" title="Industries include Education, Armed forces, Local government, Police service, Fire service, Central government">Public services</a></li>
+        <li><a href="http://www.hse.gov.uk/quarries/index.htm" title="The quarry industry fatality rate in June 2000 averaged three times that of construction. The industry also has the highest injury rate">Quarries</a></li>
+        <li><a href="http://www.hse.gov.uk/railways/index.htm" title="HSE's responsibility for railways has now moved to the ORR">Railways</a></li>
+        <li><a href="http://www.hse.gov.uk/waste/index.htm" title="Health and safety information for those involved in waste management and recycling">Recycling</a></li>
+		<li><a href="http://www.hse.gov.uk/refractories/index.htm" title="Refractories">Refractories</a></li>
+        <li><a href="http://www.hse.gov.uk/rubber/index.htm" title="The industry includes those involved in the manufacture of general rubber goods and new tyres, tyre retreading; the importing, wholesale distribution and retailing of tyres and tyre recovery.">Rubber</a></li>
+        <li><a href="http://www.hse.gov.uk/stonemasonry/index.htm" title="Health and safety information for those involved in the stonemasonry industry.">Stonemasonry</a></li>
+        <li><a href="http://www.hse.gov.uk/surfaceengineering/index.htm" title="Surface engineering refers to a wide range of technologies designed to modify the surface properties of metallic and non-metallic components for decorative and/or functional purposes">Surface engineering</a></li>
+        <li><a href="http://www.hse.gov.uk/textiles/index.htm" title="The textiles and clothing industries employ around 189,000 in the UK increasingly in small businesses">Textiles</a></li>
+        <li><a href="http://www.hse.gov.uk/warehousing/index.htm" title="This website provides health and safety advice for people working in the warehousing industry">Warehousing</a></li>
+        <li><a href="http://www.hse.gov.uk/waste/index.htm" title="Health and safety information for those involved in waste management and recycling">Waste management</a></li>
+        <li><a href="http://www.hse.gov.uk/woodworking/index.htm" title="Occupational safety and health advice for people working in the woodworking and furniture industries">Woodworking and furniture</a></li>
+      </ul>
+	  </div>
+
+ <div class="topic">
+      <h2><label for="st">Health &amp; safety topics</label></h2>
+      <ul class="ddmswitch listarrowlong" id="st">
+        <li><a href="http://www.hse.gov.uk/asbestos/index.htm" title="Around 3000 people a year in Great Britain die from diseases caused by past exposure to asbestos and the figure is expected to rise to nearer 10,000 by 2010.">Asbestos</a></li>
+        <li><a href="http://www.hse.gov.uk/asthma/index.htm" title="Occupational asthma is the most frequently reported occupational respiratory disease in Great Britain, may ruin lives and costs society up to 1.1 billion.">Asthma</a></li>
+        <li><a href="http://www.hse.gov.uk/msd/backpain/index.htm" title="In any business, large or small, workers are the most valuable asset. Back disorders are the most common form of ill health at work.">Back pain</a></li>
+        <li><a href="http://www.hse.gov.uk/businessbenefits/index.htm" title="Effective health and safety saves money.">Business benefits</a></li>
+        <li><a href="http://www.hse.gov.uk/cdg/index.htm" title="Carrying dangerous goods by road or rail involves the risk of an incident, leading to hazards such as fire, explosive, chemical burn or environmental damage">Carriage dangerous goods</a></li>
+        <li><a href="http://www.hse.gov.uk/chip/index.htm" title="CHIP is the Chemicals (Hazard Information and Packaging for Supply) Regulations 2002. If you supply chemicals you should know about CHIP and follow its requirements.">CHIP</a></li>
+        <li><a href="http://www.hse.gov.uk/chronicfatigue/index.htm" title="Chronic fatigue syndrome (CFS) is characterised by severe and disabling fatigue lasting at least 6 months.">Chronic fatigue syndrome</a></li>
+        <li><a href="http://www.hse.gov.uk/comah/index.htm" title="Information relating to the Control of Major Accident Hazards Regulations 1999 (COMAH)">COMAH</a></li>
+        <li><a href="http://www.hse.gov.uk/compressedair/index.htm" title="Information about working with and in compressed air">Compressed air</a></li>
+        <li><a href="http://www.hse.gov.uk/confinedspace/index.htm" title="On average, work in confined spaces kills 15 people every year in the UK across a wide range of industries">Confined spaces</a></li>
+        <li><a href="http://www.hse.gov.uk/copd/index.htm" title="Chronic obstructive pulmonary disease (COPD) is an extremely common lung disease, and is the 4th leading cause of death throughout the world.">COPD</a></li>
+        <li><a href="http://www.hse.gov.uk/corporateresponsibility/index.htm" title="Health and safety in the workplace is an important Corporate responsibility issue.">Corporate responsibility</a></li>
+        <li><a href="http://www.hse.gov.uk/coshh/index.htm" title="The Control of Substances Hazardous to Health Regulations 2002 (COSHH) require employers to control exposure to hazardous chemicals to prevent ill health.">COSHH</a></li>
+        <li><a href="http://www.hse.gov.uk/drp/index.htm" title="The aim of the Disease Reduction Programme (DRP) is to reduce ill health that results from failures to properly control hazardous or dangerous substances in the workplace.">Disease reduction</a></li>
+        <li><a href="http://www.hse.gov.uk/alcoholdrugs/index.htm" title="Drug, alcohol and other substance misuse is everyone's concern. It damages health, causes absenteeism and reduced productivity. It also increases the risk of accidents.">Drugs and alcohol</a></li>
+		<li><a href="http://www.hse.gov.uk/economics/index.htm" title="HSE makes use of Economics in assessment, monitoring and evaluation of its policies, programmes and projects, and to strengthen the evidence base for the development of health and safety policy.">Economics</a></li>
+        <li><a href="http://www.hse.gov.uk/electricity/index.htm" title="Electricity can kill. Each year about 1000 accidents at work involving electricity are reported to HSE.">Electrical safety</a></li>
+        <li><a href="http://www.hse.gov.uk/equipment/index.htm" title="The Provision and Use of Equipment at Work Regulations 1998 (PUWER)">Equipment at work</a></li>
+        <li><a href="http://www.hse.gov.uk/humanfactors/index.htm" title="Ergonomics is the study of environmental, organisational and human factors which influence behaviour at work and can affect health and safety">Ergonomics</a></li>
+        <li><a href="http://www.hse.gov.uk/falls/index.htm" title="Falls from height are the most common cause of fatal injury and the second most common cause of major injury to employees, accounting for 15% of all such injuries.">Falls from height</a></li>
+        <li><a href="http://www.hse.gov.uk/fireandexplosion/index.htm" title="Each year many people suffer burns caused by the uncontrolled ignition of flammable substances">Fire and explosion</a></li>
+        <li><a href="http://www.hse.gov.uk/firstaid/index.htm" title="Draws together HSE's advice on all aspects of First Aid at Work into one place.">First aid at work</a></li>
+        <li><a href="http://www.hse.gov.uk/gas/index.htm" title="Provides links to the home pages for both domestic gas and gas supply health and safety information.">Gas</a></li>
+        <li><a href="http://www.hse.gov.uk/biosafety/gmo/index.htm" title="Describes the health and safety regime covering work with genetically modified organisms (GMOs) in contained facilities">GMOs</a></li>
+		 <li><a href="http://www.hse.gov.uk/gse/index.htm" title="To reduce the number of working days lost in the public sector from work related accidents and ill-health, by 30%, by 2010.">Government setting an example</a> </li>
+        <li><a href="http://www.hse.gov.uk/horizons/index.htm" title="Horizon scanning is the process which ensures that we are aware of changes in the future that could have an impact on effective and efficient promotion and regulation of health and safety">Horizon scanning</a></li>
+        <li><a href="http://www.hse.gov.uk/humanfactors/index.htm" title="Human factors are environmental, organisational and job factors as well as human and individual characteristics which influence behaviour at work and can affect health and safety">Human factors</a></li>
+        <li><a href="http://www.hse.gov.uk/biosafety/infection.htm" title="This site covers ill health caused by exposure to micro-organisms such as bacteria and viruses (commonly known as pathogens, bugs and germs) during work activities">Infections at work</a></li>
+        <li><a href="http://www.hse.gov.uk/involvement/index.htm" title="Involving workers is important for good health and safety">Involving workers</a></li>
+        <li><a href="http://www.hse.gov.uk/landuseplanning/index.htm" title="Outline HSE's current and future role in the provision of land use planning advice">Land use planning</a></li>
+        <li><a href="http://www.hse.gov.uk/latex/index.htm" title="Allergic reactions to exposure to natural rubber latex (NRL) have increased significantly over the last ten years, particularly within healthcare occupations">Latex allergies</a></li>
+        <li><a href="http://www.hse.gov.uk/legionnaires/index.htm" title="Legionnaires Disease is a potentially fatal form of pneumonia which can affect anybody, but which principally affects those who are susceptible because of age, illness, immunosuppression, smoking etc. ">Legionnaires' Disease</a></li>
+        <li><a href="http://www.hse.gov.uk/metalworking/index.htm" title="Metalworking Fluids (MWFs) are neat oils or water-based fluids used during the machining and shaping of metals to provide lubrication and cooling">Metalworking fluids</a></li>
+        <li><a href="http://www.hse.gov.uk/movinggoods/index.htm" title="A nationwide wide initiative to reduce injury and ill-health from the movement of goods">Moving goods</a></li>
+        <li><a href="http://www.hse.gov.uk/msd/index.htm" title="Musculoskeletal disorders (MSDs) are the most common occupational illness in Great Britain, affecting 1.1 million people a year. In 1995/96, MSDs cost society 5.7 billion (1995/96 prices)">Musculoskeletal disorders</a></li>
+        <li><a href="http://www.hse.gov.uk/mothers/index.htm" title="Draws together HSE's advice on protecting the health and safety of new and expectant mothers at work">New and expectant mothers</a></li>
+        <li><a href="http://www.hse.gov.uk/noise/index.htm" title="Exposure to loud noise in the workplace can cause permanent hearing damage">Noise</a></li>
+        <li><a href="http://www.hse.gov.uk/nons/index.htm" title="Explains the notification of new substances">NONS</a></li>
+        <li><a href="http://www.hse.gov.uk/office/index.htm" title="Accidents happen in the office but the health and safety measures need to be matched to the level of risk.">Offices</a></li>
+        <li><a href="http://www.hse.gov.uk/pipelines/index.htm" title="Concentrating on pipelines covered by the Pipeline Safety Regulations 1996 (PSR) and in particular on those pipelines known as Major Accident Hazard (MAHP) Pipelines">Pipelines</a></li>
+        <li><a href="http://www.hse.gov.uk/radiation/index.htm" title="Provides links to the home pages for both Ionising and non-Ionising Radiation">Radiation</a></li>
+        <li><a href="http://www.hse.gov.uk/reach/index.htm" title="REACH stands for Registration, Evaluation, and Authorisation of Chemicals. It is EU Chemical legislation and came into force 1st June 2007">REACH - New chemicals law</a></li>
+        <li><a href="http://www.hse.gov.uk/education/index.htm" title="Provides guidance and support materials for teachers and lecturers to meet their need for material to help them plan lessons and lectures">Risk education</a></li>
+        <li><a href="http://www.hse.gov.uk/risk/index.htm" title="The effective management of risk is central to providing a safe and healthy workplace">Risk management</a></li>
+        <li><a href="http://www.hse.gov.uk/roadsafety/index.htm" title="Each year about 3,500 people are killed on our roads and 40,000 are seriously injured. Each one results in terrible pain and suffering">Road safety (work related)</a></li>
+        <li><a href="http://www.hse.gov.uk/gse/index.htm" title="To reduce the number of working days lost in the public sector from work related accidents and ill-health, by 30%, by 2010">Setting an example</a></li>
+        <li><a href="http://www.hse.gov.uk/schooltrips/index.htm" title="Millions of young people are involved in successful trips each year - it need not go wrong">School trips</a></li>
+        <li><a href="http://www.hse.gov.uk/sicknessabsence/index.htm" title="Managing long-term sickness absence and providing help for those off work to return to work">Sickness absence</a></li>
+        <li><a href="http://www.hse.gov.uk/skin/index.htm" title="Many people in Great Britain suffer from skin disease caused by their work; most of which resulted from exposure to chemicals">Skin at work</a></li>
+        <li><a href="http://www.hse.gov.uk/slips/index.htm" title="Slips and trips are often seen as a joke however in reality nothing could be further from the truth">Slips and trips</a></li>
+        <li><a href="http://www.hse.gov.uk/societalrisk/index.htm" title="Estimating the chances of people being harmed from an industrial incident">Societal risk</a> </li>
+        <li><a href="http://www.hse.gov.uk/stress/index.htm" title="Providing information and advice to employees and employers on work related stress">Stress</a></li>
+        <li><a href="http://www.hse.gov.uk/temperature/index.htm" title="Information about how the temperature of the environment you work in can affect you and advice on how to manage it">Temperature</a></li>
+        <li><a href="http://www.hse.gov.uk/workplacetransport/index.htm" title="Vehicles in the workplace are the second biggest cause of fatal accidents in British workplaces">Transport (workplace)</a></li>
+                <li><a href="http://www.hse.gov.uk/vibration/index.htm" title="Hand-arm and whole-body vibration">Vibration</a></li>
+        <li><a href="http://www.hse.gov.uk/violence/index.htm" title="Although the number of incidents of physical assaults and threats has fallen since the peak in 1995, it remains at a worrying level">Violence (workplace)</a></li>
+        <li><a href="http://www.hse.gov.uk/welding/index.htm" title="Each year over 1000 work related accidents to welders are reported to the Health and Safety Executive">Welding</a></li>
+		 <li><a href="http://www.hse.gov.uk/workplacehealth/index.htm" title="Free and impartial advice on health at work">Workplace health connect</a></li>
+		     <li><a href="http://www.hse.gov.uk/youngpeople/index.htm" title="Getting safely on the road to work. What do you need to know" >Young people</a></li>
+      </ul>
+</div>
+	  <ul class="advertlist">
+	  <li><a href="http://www.hse.gov.uk/fallsfromvehicles/index.htm"><img src="../images/banners/ffv.gif" alt="Falls from vehicles campaign 2007" width="180" height="60" /></a></li>
+	  </ul>

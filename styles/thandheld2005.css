@@ -1,0 +1,17 @@
+/* banner */
+#banner h2, #banner h1, #accesskeys, #lifelines770 ul li, #subnav100 {display:none;}
+#searchbox form {width:100%; padding:0; margin:0;}
+#printbanner {display:inline; width:100%; height:auto;}
+/* footer */
+#footer {display:none; }
+/* main page */
+.hide, .headlinehighlight img, .headlinehighlight h1 a img, #colright, #colleft p {display:none; }
+.headlinehighlight, h1 {padding:0;}
+#bodycontainer { width:100%; margin:0; padding:0;}
+.n {display:block;}
+.n ul {width:100%; margin-left:0;}
+.n ul li {width:100%; margin-left:0;}
+.n ul li ul {display:none;}
+
+div.b1, div.b2, div.b3, div.b4 {float:none; width:90%;}
+/* ******* ensure _handheld is up to date as well!!! copy and paste this into it! ******* */

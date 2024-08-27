@@ -1,0 +1,32 @@
+/* ******* Print Styles start here ******* */
+body, textarea {font-family :helvetica, arial, sans-serif; font-size:small; line-height:1.2em; }
+#banner, #colright, #colleft, #footer, #gutter, .hidden {display: none;}
+#printbanner {width:100%; page-break-after:avoid; margin:0; display:block }
+#printbanner img {width:100%}
+
+.headlinehighlight {margin-left: -12%; }
+.headlinehighlight p {margin: 0; } 
+
+/* Need to offset screen margins for .headlinehighlight h1 a */
+.headlinehighlight h1 a img, .headlinehighlight img, .headlinehighlight h1 img {display:none;}
+
+.headlineinverted {border: 1pt black dotted;}
+.highlight {border: 1pt solid black;}
+.highlightBox { padding: 4pt; border: 1pt solid black }	
+.t.c3, .t.c2 {width: 85%; padding-left:15%;}
+
+.t.c1 .headlinehighlight, .t.c1 h1 {padding-left:18%;}
+.t.c1 .headlinehighlight h1 {margin-left:-18%;}
+.t.c1 table td, .t.c1 table th {font-size:80%;}
+
+a { text-decoration: none !important; }
+ul li {list-style: square; margin-left:1em;}
+
+* h1 { font-weight:bold; padding: 4pt 0; font-size: 300%; margin:0 0 0.5em -12%; line-height:1.1em;} 
+h2 { font-size:120%; padding:0.8em 0 0.5em 0;}
+h3 { font-size:100%;}
+h4, h5, h6 {display:none; }
+
+textarea { width:290px; height:5em;  border-style: solid; border-width: 1px; border-color:black}
+
+

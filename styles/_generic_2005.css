@@ -1,0 +1,83 @@
+p, ul, dl {color : %BLACK%;}
+/*#accesskeys, #accesskeys li a, #accesskeys li a:hover {color:%DARK%;}*/
+#accesskeys li a:active, #accesskeys li a:focus {color:%WHITE%; background-color:%DARK%;}
+#footer {border-top-color:%MEDIUM%; background-color:%WHITE%}
+#footer, #footer ul li.first, #footer a:hover, #footer a {color:%BLACK%;}
+#footer li {border-color: %MEDIUM%;} 
+#lifelines100 {border-color: %OTHER%;}
+#subnav100 {background-color: %MEDIUM%;}
+#title770 {background: url(%IMAGEPATH%hse-bicubic.gif) transparent 17px 0.5em no-repeat; background-color:%DARK%;}
+
+.n ul * {color : %BLACK%; }
+acronym {border-bottom-color:%DARK%;}
+a:hover, a:active, a:focus {color : %DARK%}
+body {background-color : %WHITE%;}
+fieldset {border-color :%LIGHT%;}
+h1 {background-color: %LIGHT%; color : %DARK%;}
+h2, h2 a, h2 label, .n h2 label {color : %DARK%;}
+h2 a:hover, h2 a:active, h2 a:focus {color: %GREY%; }
+h3, legend {color : %GREY%;}
+hr {border-top-color : %MEDIUM%;border-bottom-color : inherit;}
+ul li {background-image: url(%IMAGEPATH%circle.gif); }
+.box {background-color:%WHITE%; border-color:%DARK%;}
+.ddm input, .l #sa {background-color:%DARK%; border-color:%MEDIUM%; color:%WHITE%;}
+.exec {display:%EXEC%}
+.comm {display:%COMM%}
+.formpretty input, .formpretty select, .formpretty textarea { border-color:%DARK%; }
+.highlightBox, .headlinehighlight, .highlight, .homebox, .icapsr, .icapmr, .icaplr, .icapsl, .icapml, .icapll {background-color: %LIGHT%;}
+.l {color:%WHITE%; background-color:%DARK%;}
+.l, .l a, .l a:hover, .l a:active, .l a:focus, .l h1, .l h2, .l p, .l li.first, .l acronym, .l .exec, .l .comm {color: %WHITE%;}
+.l ul {background:none; list-style:none}
+.l ul li {border-color: %WHITE%;}
+.l ul.arrow li, .l ul.listarrow li {background-image: url(%IMAGEPATH%whitearrow.gif);} #closeIE5hack {}
+.l ul.arrow a, .l ul.listarrow a, .l ul.arrow a:hover, .l ul.listarrow a:hover, .l ul.arrow a:active, .l ul.listarrow a:active {color:%WHITE%; font-weight:normal;}
+.l #q { border-color:#D4D0C8;}
+.n ul {border-bottom-color : %HORIZ%; }
+.n ul li {color:%DARK%; background-image: url(%IMAGEPATH%square.gif); }
+.n ul li ul li {background-image:url(%IMAGEPATH%smallsquare.gif) ;}
+.n .selected {background-color: %LIGHT%;}
+.n ul.listhighlight li.selected {border-color:%DARK%;}
+.n .selectExpanded div/*, .sortableDesc*/ {background-image: url(%IMAGEPATH%arrow-down.gif)}
+.n .selectCollapsed div/*, .sortable*/ {background-image: url(%IMAGEPATH%arrow.gif) }
+.n .selectExpanded ul {border-bottom-color:%LIGHT%;}
+.query {color : red;}
+.realbanner {background-image: url(%FQIMGPATH%printbanner.gif);}
+.t a { color:%DARK% }
+.t a:hover { color:%GREY% }
+dl.dlpretty {border-bottom-color:%DARK%;}
+dl.dlpretty dd, dl.dlpretty dt {border-top-color:%LIGHT%;}
+dl.dlpretty dd.first, dl.dlpretty dt.first {background-color:%LIGHT%; border-top-color:%MEDIUM%; }
+h2.headlineinverted, h3.headlineinverted {color: %WHITE%; background-color:%MEDIUM%;}
+p.headlinekeymessage, p.headlinekeymessage a, p.headlinekeymessage strong {color : %MEDIUM%;}
+table thead, table th, table tfoot {background-color:%LIGHT%; border-color:%MEDIUM%;}
+table.tablenumrow td, table.tablealpharow td  {border-top-color: %LIGHT%;}
+table.tablealphacolumn td, table.tablenumcolumn td {border-right-color:%LIGHT%;}
+table.tablealphagrid td, table.tablenumgrid td {border-color:%OTHER%;}
+table.tablealphacolumn, table.tablenumcolumn, table.tablenumrow, table.tablealpharow {border-color:%OTHER%;}/*21.05.07*/
+ul.advertlist img {border-color:%HORIZ%; }
+ul.advertlist li:hover, ul.advertlist a:hover { background-color:%LIGHT%; }
+ul.arrow li, ul.listarrow li, ul.listarrowlong li, .feed ul li {background-image: url(%IMAGEPATH%arrow.gif);}
+ul.arrow li a, ul.listarrow li a{ color: %GREY%;}
+ul.arrow li a:hover, ul.arrow li a:active, ul.arrow li a:focus, ul.listarrow li a:hover, ul.listarrow li a:active, ul.listarrow li a:focus, ul.listarrowlong li a:hover, ul.listarrowlong li a:active, ul.listarrowlong li a:focus {color: %DARK%;}
+ul.az li { border-color:%DARK%; }
+ul.az li a { background-color:%LIGHT%; color: %DARK%;}
+ul.az li a:hover, ul.az li a:active, ul.az li a:focus { background-color:%WHITE%; color: %GREY%; border-color: %DARK% }
+ul.linklist li, ul.newwindow li {background-image: url(%IMAGEPATH%newwindow.gif);}
+ul.listarrowlong li a { color: %BLACK%; }
+ul.listhighlight li, ul.listimgflow li, ul.listql li {background-color : %LIGHT%;}
+ul.listhighlight strong, ul.listql strong {color : %DARK%;}
+ul.listtick li, ul.tick li {background-image: url(%IMAGEPATH%tick.gif);}
+ul.listcross li, ul.cross li {background-image: url(%IMAGEPATH%cross.gif);}
+ul.listexclaim li {background-image: url(%IMAGEPATH%exclaim.gif);}
+ul.hottopics {border-top-color: %LIGHT%;}
+ul.hottopics li a {border-bottom-color: %LIGHT%;}
+ul.hottopics li a:hover, ul.hottopics li a:active, ul.hottopics li a:focus {background-color: %LIGHT%;}
+div.b1, div.b2, div.b3, div.b4 {background-color:%LIGHT%; }
+.feed ul li span.rss-date {color:%LIGHTGREY%;}
+/* Drop downs menus styles */ 
+.industry {background-color:%INDLIGHT%; border-color:%INDMEDIUM%;}
+.industry h2 label {color:%INDDARK%;}
+.industry input {background-color:%INDMEDIUM%; border-color:%INDDARK%; color:%INDLIGHT%;}
+.topic {background-color:%TOPLIGHT%; border-color:%TOPMEDIUM%;}
+.topic h2 label {color:%TOPDARK%;}
+.topic input {background-color:%TOPMEDIUM%; border-color:%TOPDARK%; color:%WHITE%;}

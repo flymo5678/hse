@@ -1,0 +1,30 @@
+/* ******* Print Styles start here ******* */
+
+/* Currently commented out from the CSS look-up to ensure scheme colours such as tpurple or tgreen etc are used on the printed pages.  If desired to have black on white remove # from css-source2005.txt and delete this comment.
+ */
+body {font-family :helvetica, arial, sans-serif; font-size:small; line-height:1.2em; }
+#banner, #colright, #colleft, #footer, .hidden {display: none;}
+#printbanner {width:100%; page-break-after:avoid; margin:0; display:block }
+#printbanner img {width:100%}
+/*#title770 {	width: 100%; overflow:visible;}*/
+
+.headlinehighlight h1, .headlinehighlight h3, .headlinehighlight h2 { padding : 4pt 0; margin:0 0 0.5em 6%;} 
+.headlinehighlight p { padding : 0;  margin: 0 0 0 10%;} 
+.headlinehighlight img {width:100%;}
+.headlineinverted {border: 1pt black dotted;}
+.highlight {border: 1pt black solid;}
+.highlightBox { padding: 4pt; border: 1pt solid black }	
+.t.c3, .t.c2 {width: 85%; padding-left:15%;}
+
+.t.c1 div.headlinehighlight {padding-left:12%;}
+.t.c1 table td, .t.c1 table th {font-size:80%;}
+
+a { text-decoration: none !important; }
+ul li {list-style: disc; margin-left:1em;}
+h1 { font-weight:bold; padding: 4pt 0; font-size: 200%; margin:0 0 0.5em -12%; line-height:1.1em;} 
+h2 { font-size:120%; padding:0.8em 0 0.5em 0;}
+h3 { font-size:100%;}
+h4, h5, h6 {display:none; }
+.headlinehighlight {margin-left:-18%;}
+textarea { width:290px; height:5em;  border-style: solid; border-width: 1px; border-color:black}
+

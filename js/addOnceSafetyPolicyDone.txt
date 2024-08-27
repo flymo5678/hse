@@ -1,0 +1,17 @@
+// edit default2005.js once safetypolicy statement goes live.
+
+// functions
+window.onload = function (e){
+	document.is = new Is();
+	if (document.is.supported) {
+			initializecss();	initializeTree();			linkCheck();
+			if (document.forms) { initializeOnFocusRules(); cssInputSelector (true) }
+			hidenoscript("hide"); realImages('printbanner', 'realbanner');
+			if (window.loadadvanced) window.loadadvanced();		
+			if (window.loadindg259) window.loadindg259();
+	}
+}
+window.onunload = function(e) {	persistcss (); }
+
+
+// note line regarding loadindg259
